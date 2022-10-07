@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrinal-shubham
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Node.js for backed
+- 🌱 I’m currently learning Node.js for backend
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me mrinalshubham1228@gmail.com
 
